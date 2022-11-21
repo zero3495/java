@@ -1,2 +1,0 @@
-1|kitty123|張軍雅|新竹市中正路100號|data/images/newkitty.png|data/comments/newcomment1.txt|2580.5
-3|snoopy456|史奴比|台中市南屯文心南路二段280號12樓|data/images/newsnoopy.png|data/comments/newcomment3.txt|1879.0

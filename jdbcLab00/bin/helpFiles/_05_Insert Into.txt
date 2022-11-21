@@ -1,9 +1,0 @@
-﻿String insertStr =  "INSERT  INTO  Table_Name VALUES "
-	+ "(NULL, '8天學會JSP', '林曉珍', 550, 2,'JSP049', NULL, 0.75, NULL, 20), "
-	+ "(NULL, 'JSON入門', '李國泰', 370, 1,'JSON152', NULL, 0.9, NULL, 10), "
-	+ "(NULL, 'XML聖經', '黃華', 370, 1,'XML007', NULL, 0.9, NULL, 10), "
-	+ "(NULL,'5天學會JDBC','林曉珍', '550.0', '2', 'JDBC032', NULL, '0.750', NULL, '20'), "
-	+ "(NULL,'Java入門與實務','林國華','370.0','1','Java001',NULL,'0.900',NULL,'10'), "
-	+ "(NULL,'HTML5 聖經','劉麗勤','650.0','2','XPT021',NULL,'0.900','Java01.jpg','15'), "
-	+ "(NULL,'JDBC實戰手冊','張美華','240.0','3','JSON001',NULL,'0.700',NULL,'30'), "
-	+ "(NULL, 'Java聖經',  '劉麗勤', 650, 2,'Java072', NULL,  0.9, 'Java01.jpg', 15) ";

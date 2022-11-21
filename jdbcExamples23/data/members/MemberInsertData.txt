@@ -1,3 +1,0 @@
-kitty|張君雅|新北市板橋區中正路100號|0|data/images/kitty.jpg|data/comments/comment3.txt
-mickey|米小薯|台南市中西區中正路一段189號3樓|1000.5|data/images/micky.jpg|data/comments/comment2.txt
-snoopy|溫奴比|台中市西屯區河南路二段280號12樓|150.0|data/images/snoopy.png|data/comments/comment1.txt

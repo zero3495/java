@@ -1,6 +1,0 @@
-
-IF OBJECT_ID('dbo.Table_Name', 'U') IS NOT NULL DROP TABLE dbo.Table_Name
-
-
----------------MySQL-------------------
-String dropStr = "DROP TABLE IF EXISTS Table_Name";
