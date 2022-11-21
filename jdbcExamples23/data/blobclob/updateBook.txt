@@ -1,0 +1,2 @@
+1|FLASHCS4互動網頁設計(new)|黃鈺琦(new)|1550|1.0|1|bookxb001New.jpg|I477|bookxb001New.txt
+2|PHP&MySQL程式設計實例講座(new)|陳惠貞(new)|1580|0.6|1|bookxb002New.jpg|P832|bookxb002New.txt

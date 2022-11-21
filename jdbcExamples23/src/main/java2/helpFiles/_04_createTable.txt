@@ -1,0 +1,1 @@
+String createStr = "CREATE TABLE Table_Name ( bookId INTEGER NOT NULL AUTO_INCREMENT, title VARCHAR(255), author VARCHAR(255),	price decimal(10, 1), companyId INTEGER, bookNo VARCHAR(255), coverImage LONGBLOB, discount decimal(7, 3),	fileName VARCHAR(255), stock INTEGER,	PRIMARY KEY (bookId) ) ENGINE=INNODB CHARSET=UTF8 COLLATE=UTF8_GENERAL_CI; ";

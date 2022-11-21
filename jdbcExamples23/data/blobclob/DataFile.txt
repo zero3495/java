@@ -1,0 +1,4 @@
+images\river_20040621_2.gif
+images\river_20040614_2.gif
+images\tarzan_20040619_2.jpg
+text\sports.txt

@@ -1,0 +1,7 @@
+---------------SQL Server-------------------
+jdbc:sqlserver://127.0.0.1:1433;databaseName=cmsdb
+jdbc:sqlserver://127.0.0.1:1433;databaseName=cmsdb;user=sa;password=sa123456
+
+---------------MySQL-------------------
+jdbc:mysql://127.0.0.1:3306/cmsdb?useUnicode=yes&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Taipei&allowPublicKeyRetrieval=true
+jdbc:mysql://127.0.0.1:3306/cmsdb?user=root&password=Do!ng123&useUnicode=yes&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Taipei&allowPublicKeyRetrieval=true

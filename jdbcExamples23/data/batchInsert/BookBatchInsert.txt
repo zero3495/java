@@ -1,0 +1,6 @@
+資料庫設計實務|穆拉拉|360.0|data/batchInsert/images/Book001.jpg|0.9|12
+網路與電腦安全|傅邦達|400.0|data/batchInsert/images/Book002.jpg|1.0|36
+密碼學|吳柏毅|330.0|data/batchInsert/images/Book003.jpg|1.0|20
+Spring 框架程式設計|吳柏毅|600.0|data/batchInsert/images/Book001.jpg|1.0|25
+Spring Boot精修|傅邦達|620.0|data/batchInsert/images/Kitty.png|1.0|50
+C語言程式設計|劉曉晰|370|data/batchInsert/images/Kitty.png|0.85|25
